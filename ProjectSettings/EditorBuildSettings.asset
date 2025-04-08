@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Historia.unity
     guid: 786e415372d6b734aa6bd12aee40d4e7
+  - enabled: 1
+    path: Assets/Scenes/VideoHistoria.unity
+    guid: 7c5b454e08c1e154197154599fc05a77
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fea1964da15b11146898e647793db927, type: 2}
